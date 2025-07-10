@@ -1,1 +1,1 @@
-# install-google-chrome-ubuntu-16
+# Installation of Google Chrome browser in Ubuntu 16
